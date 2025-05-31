@@ -1,4 +1,4 @@
-# DevTools Protocol
+# DevTools Protocol (Archived)
 
 This repository is for resources and discussion around aligning the developer tools protocol used by various browsers, JavaScript engines and debugging tools.
 
