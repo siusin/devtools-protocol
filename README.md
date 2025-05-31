@@ -2,6 +2,10 @@
 
 This repository is for resources and discussion around aligning the developer tools protocol used by various browsers, JavaScript engines and debugging tools.
 
+**⚠️ This repository is archived and no longer maintained.**
+
+For the latest updates, ongoing development, and discussions, please visit the [w3c/webdriver-bidi](https://github.com/w3c/webdriver-bidi/) repository.
+
 ## Goals
 
 - Help empower web developers to build great applications by supporting an ecosystem of diagnostics tools which work well across a variety of targets.
